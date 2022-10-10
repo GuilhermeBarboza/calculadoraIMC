@@ -1,0 +1,21 @@
+body {
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
+}
+
+#weight, #height {
+  width: 50px;
+}
+
+#calculate {
+  margin-top: 10px;
+}
+
+#p-result {
+  margin-top: 50px;
+}
+
+label {
+  font-family: 'JetBrain Mono';
+}
